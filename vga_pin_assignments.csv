@@ -1,0 +1,33 @@
+From,To,Assignment Name,Value,Enabled
+,clk_in,Location,PIN_L1,Yes
+,clk_in,I/O Standard,LVTTL,Yes
+,r[0],Location,PIN_D9,Yes
+,r[1],Location,PIN_C9,Yes
+,r[2],Location,PIN_A7,Yes
+,r[3],Location,PIN_B7,Yes
+,g[0],Location,PIN_B8,Yes
+,g[1],Location,PIN_C10,Yes
+,g[2],Location,PIN_B9,Yes
+,g[3],Location,PIN_A8,Yes
+,b[0],Location,PIN_A9,Yes
+,b[1],Location,PIN_D11,Yes
+,b[2],Location,PIN_A10,Yes
+,b[3],Location,PIN_B10,Yes
+,Hsync,Location,PIN_A11,Yes
+,Vsync,Location,PIN_B11,Yes
+,r[0],I/O Standard,LVTTL,Yes
+,r[1],I/O Standard,LVTTL,Yes
+,r[2],I/O Standard,LVTTL,Yes
+,r[3],I/O Standard,LVTTL,Yes
+,g[0],I/O Standard,LVTTL,Yes
+,g[1],I/O Standard,LVTTL,Yes
+,g[2],I/O Standard,LVTTL,Yes
+,g[3],I/O Standard,LVTTL,Yes
+,b[0],I/O Standard,LVTTL,Yes
+,b[1],I/O Standard,LVTTL,Yes
+,b[2],I/O Standard,LVTTL,Yes
+,b[3],I/O Standard,LVTTL,Yes
+,Hsync,I/O Standard,LVTTL,Yes
+,Vsync,I/O Standard,LVTTL,Yes
+,ps,Location,PIN_L22,Yes
+,ps,I/O Standard,LVTTL,Yes
